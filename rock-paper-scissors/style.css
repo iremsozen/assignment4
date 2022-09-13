@@ -1,0 +1,17 @@
+.options{
+    width: 150px;
+    height:30px;
+    background-color: palevioletred;
+    color:white;
+    border-radius: 30px;
+    margin-bottom: 0px;
+}
+
+#match{
+    color:blueviolet;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
